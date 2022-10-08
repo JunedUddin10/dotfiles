@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = juned.uddin10@gmail.com
+	name = Juned Uddin
